@@ -99,6 +99,14 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     wsteth: NOT_SUPPORTED_ON_CHAIN,
     creationBlock: 17566658,
   },
+  // classic mordor
+  [63]: {
+    router: '0x29fCe632E06c62c3036148C76461F2E239A4434B',
+    weth: NOT_SUPPORTED_ON_CHAIN,
+    steth: NOT_SUPPORTED_ON_CHAIN,
+    wsteth: NOT_SUPPORTED_ON_CHAIN,
+    creationBlock: 10252157,
+  },
   // binance smart chain
   [56]: {
     router: '0xeC8B0F7Ffe3ae75d7FfAb09429e3675bb63503e4',
