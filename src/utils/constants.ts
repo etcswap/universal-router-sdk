@@ -101,7 +101,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // ethereum classic
   [61]: {
-    router: '0x29fCe632E06c62c3036148C76461F2E239A4434B',
+    router: '0x648A28f133447354E2B3F2d987480E68F7a934d1',
     weth: NOT_SUPPORTED_ON_CHAIN,
     steth: NOT_SUPPORTED_ON_CHAIN,
     wsteth: NOT_SUPPORTED_ON_CHAIN,
@@ -109,7 +109,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // classic mordor
   [63]: {
-    router: '0x29fCe632E06c62c3036148C76461F2E239A4434B',
+    router: '0x648A28f133447354E2B3F2d987480E68F7a934d1',
     weth: NOT_SUPPORTED_ON_CHAIN,
     steth: NOT_SUPPORTED_ON_CHAIN,
     wsteth: NOT_SUPPORTED_ON_CHAIN,
