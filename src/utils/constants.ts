@@ -102,18 +102,18 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   // ethereum classic
   [61]: {
     router: '0x648A28f133447354E2B3F2d987480E68F7a934d1',
-    weth: NOT_SUPPORTED_ON_CHAIN,
+    weth: '0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a',
     steth: NOT_SUPPORTED_ON_CHAIN,
     wsteth: NOT_SUPPORTED_ON_CHAIN,
-    creationBlock: 10252157,
+    creationBlock: 10380055,
   },
   // classic mordor
   [63]: {
     router: '0x5639642507cEb53e62a005F22e99Ff30114caA5B',
-    weth: NOT_SUPPORTED_ON_CHAIN,
+    weth: '0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a',
     steth: NOT_SUPPORTED_ON_CHAIN,
     wsteth: NOT_SUPPORTED_ON_CHAIN,
-    creationBlock: 10252157,
+    creationBlock: 10380055,
   },
   // binance smart chain
   [56]: {
