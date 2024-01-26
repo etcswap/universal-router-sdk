@@ -2194,7 +2194,7 @@
 
 "@uniswap/router-sdk@git+https://github.com/etcswap/router-sdk.git#etcswap":
   version "1.6.0"
-  resolved "git+https://github.com/etcswap/router-sdk.git#a5f0dd6c8e982b4628319d16bce5e80a71ad7281"
+  resolved "git+https://github.com/etcswap/router-sdk.git#942b98a36bad29ee7fe4ca362f4d02062dc62c44"
   dependencies:
     "@ethersproject/abi" "^5.5.0"
     "@uniswap/sdk-core" "git+https://github.com/etcswap/sdk-core.git#etcswap"
@@ -2216,7 +2216,7 @@
 
 "@uniswap/sdk-core@git+https://github.com/etcswap/sdk-core.git#etcswap":
   version "4.0.10"
-  resolved "git+https://github.com/etcswap/sdk-core.git#c74889fbfd2bb1ee88c0e19bf81c7863d083b38a"
+  resolved "git+https://github.com/etcswap/sdk-core.git#75705f70da95a13c10ddf70022e5ebcd8b6b4c6c"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
@@ -2315,7 +2315,7 @@
 
 "@uniswap/v3-sdk@git+https://github.com/etcswap/v3-sdk.git#etcswap":
   version "3.10.0"
-  resolved "git+https://github.com/etcswap/v3-sdk.git#34d6b4c1559a38d54b07840bdab93454eee357d9"
+  resolved "git+https://github.com/etcswap/v3-sdk.git#5f715de08040d07db5c22b062c78d41c489707d1"
   dependencies:
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
