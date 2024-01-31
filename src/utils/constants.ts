@@ -109,7 +109,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // classic mordor
   [63]: {
-    router: '0xA152302c4d9A029895187cd85e2D63359F96c3EC',
+    router: '0x65bB499C947723AF71609547F702E91D215197F0',
     weth: '0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a',
     steth: NOT_SUPPORTED_ON_CHAIN,
     wsteth: NOT_SUPPORTED_ON_CHAIN,
