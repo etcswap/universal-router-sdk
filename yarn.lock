@@ -2216,7 +2216,7 @@
 
 "@uniswap/sdk-core@git+https://github.com/etcswap/sdk-core.git#etcswap":
   version "4.0.10"
-  resolved "git+https://github.com/etcswap/sdk-core.git#75705f70da95a13c10ddf70022e5ebcd8b6b4c6c"
+  resolved "git+https://github.com/etcswap/sdk-core.git#c95d7c681c93b52b0419af9f2f243a7946048c12"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
