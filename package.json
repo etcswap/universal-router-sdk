@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/universal-router-sdk",
-  "version": "2.0.1",
+  "name": "@_etcswap/universal-router-sdk",
+  "version": "2.0.2",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -58,7 +58,7 @@
     "@uniswap/router-sdk": "git+https://github.com/etcswap/router-sdk.git#etcswap",
     "@uniswap/sdk-core": "git+https://github.com/etcswap/sdk-core.git#etcswap",
     "@uniswap/universal-router": "1.5.1",
-    "@uniswap/v2-sdk": "^3.2.0",
+    "@uniswap/v2-sdk": "git+https://github.com/etcswap/v3-sdk.git#etcswap",
     "@uniswap/v3-sdk": "git+https://github.com/etcswap/v3-sdk.git#etcswap",
     "bignumber.js": "^9.0.2",
     "ethers": "^5.3.1"
